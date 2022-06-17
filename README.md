@@ -1,6 +1,8 @@
 # portfolio_web
 
-A new Flutter project.
+**this project idea from youtube for practice**
+and here is link**[https://sabitur1.herokuapp.com/#/]**
+and wait few minutes plz 🙂
 
 ## Getting Started
 
